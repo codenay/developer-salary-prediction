@@ -1,7 +1,6 @@
 # developer-salary-prediction
 
 
-# StackOverflow Developer Survey Salary Predictor
 
 This is a web application built with Python and Streamlit that uses a machine learning model to predict the average salary of software developers based on their location, education level and number of years of experience. The model was trained on the StackOverflow Developer Survey dataset.
 
